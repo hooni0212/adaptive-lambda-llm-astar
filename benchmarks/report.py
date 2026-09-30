@@ -91,6 +91,8 @@ def main():
     metadata=json.loads((out/'metadata.json').read_text())
     text=rf'''# Adaptive λ LLM-A* 구현 및 실험 보고서
 
+> 이 문서는 기존 합성 안내 실험의 보고서입니다. 후속 실제 모델 결과는 [무료 로컬 LLM 보고서](local_llm_research.md)에 별도로 정리했습니다.
+
 작성일: 2026-10-01 (Asia/Seoul) · 브랜치: research/adaptive-lambda
 
 ## 확인한 결과와 범위

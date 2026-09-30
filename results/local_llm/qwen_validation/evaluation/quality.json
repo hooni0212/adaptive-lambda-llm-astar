@@ -1,0 +1,202 @@
+[
+  {
+    "map_id": 1,
+    "sample_id": 0,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 9,
+    "retained_points": 8,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 1,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 3,
+    "retained_points": 3,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 2,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 3,
+    "retained_points": 3,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 3,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 4,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 4,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 3,
+    "retained_points": 3,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 5,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 7,
+    "retained_points": 5,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 6,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 3,
+    "retained_points": 3,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 7,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 3,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 8,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 3,
+    "retained_points": 3,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 1,
+    "sample_id": 9,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 4,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 0,
+    "domain": "original",
+    "parse_status": "missing_list",
+    "raw_points": 0,
+    "retained_points": 0,
+    "empty_after_filter": true,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 1,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 4,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 2,
+    "domain": "original",
+    "parse_status": "missing_list",
+    "raw_points": 0,
+    "retained_points": 0,
+    "empty_after_filter": true,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 3,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 4,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 4,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 4,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 5,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 4,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 6,
+    "domain": "original",
+    "parse_status": "missing_list",
+    "raw_points": 0,
+    "retained_points": 0,
+    "empty_after_filter": true,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 7,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 4,
+    "empty_after_filter": false,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 8,
+    "domain": "original",
+    "parse_status": "missing_list",
+    "raw_points": 0,
+    "retained_points": 0,
+    "empty_after_filter": true,
+    "truncated": false
+  },
+  {
+    "map_id": 2,
+    "sample_id": 9,
+    "domain": "original",
+    "parse_status": "ok",
+    "raw_points": 4,
+    "retained_points": 3,
+    "empty_after_filter": false,
+    "truncated": false
+  }
+]

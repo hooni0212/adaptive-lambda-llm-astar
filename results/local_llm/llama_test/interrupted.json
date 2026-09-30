@@ -1,0 +1,6 @@
+{
+  "status": "interrupted_v1_after_validation_format_failure",
+  "completed_responses": 4,
+  "planned_responses": 120,
+  "reason": "Stopped after validation had 20/20 malformed truncated code outputs; reran both models with a common v2 system instruction; never combined this partial test with final analysis"
+}

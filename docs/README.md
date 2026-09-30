@@ -4,7 +4,8 @@
 
 | 문서 | 내용 |
 |---|---|
-| [연구 보고서](adaptive_lambda_research.md) | 적응형 람다 구현, 실험 설계, 성능 결과, 강건성·일반성 검증과 한계 |
+| [무료 로컬 LLM 보고서](local_llm_research.md) | 실제 모델 안내와 강건성·전이·메모리 검증 |
+| [기존 연구 보고서](adaptive_lambda_research.md) | 적응형 람다 구현, 실험 설계, 성능 결과, 강건성·일반성 검증과 한계 |
 | [원본 README](upstream_readme.md) | 출처 확인을 위해 보존한 원본 프로젝트의 영문 안내 |
 | [프로젝트 시작 안내](../README.md) | 설치, 실행 예제, 실험 재현 방법 |
 | [실험 결과 안내](../results/README.md) | 결과 파일 구성과 압축한 탐색 기록을 푸는 방법 |

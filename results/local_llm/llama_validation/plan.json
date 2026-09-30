@@ -1,0 +1,978 @@
+{
+  "model": {
+    "name": "llama3.2:3b",
+    "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+    "size": 2019393189,
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "3.2B",
+      "quantization_level": "Q4_K_M"
+    },
+    "template_sha256": "966de95ca8a62200913e3f8bfbf84c8494536f1b94b49166851e76644e966396",
+    "system_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ollama_version": "0.17.4"
+  },
+  "split": "validation",
+  "cases": [
+    {
+      "map_id": 1,
+      "sample_id": 0,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          45,
+          25
+        ],
+        "goal": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 1,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          5,
+          5
+        ],
+        "goal": [
+          45,
+          25
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 2,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          5,
+          25
+        ],
+        "goal": [
+          45,
+          5
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 3,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          45,
+          5
+        ],
+        "goal": [
+          5,
+          25
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 4,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          35,
+          24
+        ],
+        "goal": [
+          25,
+          3
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 5,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          35,
+          24
+        ],
+        "goal": [
+          25,
+          25
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 6,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          5,
+          25
+        ],
+        "goal": [
+          45,
+          25
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 7,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          45,
+          25
+        ],
+        "goal": [
+          16,
+          2
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 8,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          5,
+          25
+        ],
+        "goal": [
+          22,
+          4
+        ]
+      }
+    },
+    {
+      "map_id": 1,
+      "sample_id": 9,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            15,
+            10,
+            21
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            0,
+            15
+          ],
+          [
+            30,
+            15,
+            30
+          ],
+          [
+            40,
+            0,
+            16
+          ]
+        ],
+        "start": [
+          43,
+          3
+        ],
+        "goal": [
+          5,
+          25
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 0,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          2,
+          3
+        ],
+        "goal": [
+          18,
+          8
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 1,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          18,
+          8
+        ],
+        "goal": [
+          42,
+          4
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 2,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          6,
+          10
+        ],
+        "goal": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 3,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          18,
+          8
+        ],
+        "goal": [
+          2,
+          28
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 4,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          2,
+          28
+        ],
+        "goal": [
+          40,
+          25
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 5,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          42,
+          4
+        ],
+        "goal": [
+          18,
+          8
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 6,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          2,
+          28
+        ],
+        "goal": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 7,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          38,
+          3
+        ],
+        "goal": [
+          18,
+          8
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 8,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          45,
+          25
+        ],
+        "goal": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "map_id": 2,
+      "sample_id": 9,
+      "domain": "original",
+      "query": {
+        "range_x": [
+          0,
+          51
+        ],
+        "range_y": [
+          0,
+          31
+        ],
+        "horizontal_barriers": [
+          [
+            7,
+            0,
+            10
+          ],
+          [
+            5,
+            30,
+            40
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            14,
+            12,
+            30
+          ],
+          [
+            40,
+            0,
+            11
+          ]
+        ],
+        "start": [
+          10,
+          29
+        ],
+        "goal": [
+          16,
+          14
+        ]
+      }
+    }
+  ],
+  "options": {
+    "temperature": 0,
+    "seed": 20261001,
+    "num_ctx": 4096,
+    "num_predict": 256,
+    "num_thread": 4
+  },
+  "endpoint": "http://127.0.0.1:11434",
+  "api_cost_usd": 0,
+  "dataset_sha256": "856705d9c27eef8d457c5d79ba33ecd0eb2230835d36a20836376c6f64c6efdc",
+  "prompt_template_sha256": "ab803564c7542be8bd9122da5e6cb5f99a043681348f942bf91f122e36fe447d",
+  "selected_config_sha256": "5982e160f6819efdac7acef26138cc3c4e5b9e2225c5480b1e60b4e947fb87e3",
+  "prompt_change": "Upstream standard_gpt text + explicit grid bounds, Ollama model template applied; not exact paper reproduction",
+  "source_sha256": "ef1b1398db7006c756c1612ff7a876bf49649ed0e4b7526922bab278472033db",
+  "parse_policy": "No oracle, output repair, retries, or successful-output selection; parse errors use empty advice"
+}

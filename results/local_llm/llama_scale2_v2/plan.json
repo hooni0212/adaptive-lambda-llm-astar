@@ -1,0 +1,559 @@
+{
+  "model": {
+    "name": "llama3.2:3b",
+    "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+    "size": 2019393189,
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "3.2B",
+      "quantization_level": "Q4_K_M"
+    },
+    "template_sha256": "966de95ca8a62200913e3f8bfbf84c8494536f1b94b49166851e76644e966396",
+    "system_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ollama_version": "0.17.4"
+  },
+  "split": "test",
+  "cases": [
+    {
+      "map_id": 3,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          80,
+          40
+        ],
+        "goal": [
+          20,
+          20
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            30,
+            40,
+            60
+          ],
+          [
+            30,
+            70,
+            100
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            40,
+            8,
+            60
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 4,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          8,
+          8
+        ],
+        "goal": [
+          32,
+          32
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            40,
+            0,
+            40
+          ],
+          [
+            10,
+            60,
+            80
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            80,
+            0,
+            30
+          ],
+          [
+            40,
+            20,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 6,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          14,
+          34
+        ],
+        "goal": [
+          84,
+          30
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            42,
+            62,
+            68
+          ],
+          [
+            0,
+            52,
+            72
+          ],
+          [
+            24,
+            18,
+            50
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            64,
+            12,
+            32
+          ],
+          [
+            6,
+            4,
+            30
+          ],
+          [
+            34,
+            2,
+            50
+          ],
+          [
+            100,
+            20,
+            20
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 7,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          2,
+          48
+        ],
+        "goal": [
+          88,
+          46
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            26,
+            68,
+            70
+          ],
+          [
+            8,
+            94,
+            100
+          ],
+          [
+            8,
+            6,
+            98
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            88,
+            28,
+            28
+          ],
+          [
+            18,
+            12,
+            48
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 9,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          50,
+          50
+        ],
+        "goal": [
+          12,
+          16
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            48,
+            40,
+            96
+          ],
+          [
+            12,
+            100,
+            102
+          ],
+          [
+            60,
+            80,
+            92
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            20,
+            46,
+            54
+          ],
+          [
+            34,
+            48,
+            58
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 11,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          72,
+          34
+        ],
+        "goal": [
+          98,
+          52
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            4,
+            92,
+            98
+          ],
+          [
+            38,
+            36,
+            78
+          ],
+          [
+            50,
+            10,
+            26
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            78,
+            54,
+            60
+          ],
+          [
+            60,
+            46,
+            50
+          ],
+          [
+            48,
+            22,
+            32
+          ],
+          [
+            6,
+            52,
+            56
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 15,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          64,
+          6
+        ],
+        "goal": [
+          66,
+          42
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            32,
+            52,
+            82
+          ],
+          [
+            42,
+            48,
+            64
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            56,
+            4,
+            46
+          ],
+          [
+            24,
+            60,
+            60
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 17,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          62,
+          14
+        ],
+        "goal": [
+          8,
+          26
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            8,
+            26,
+            96
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            24,
+            12,
+            22
+          ],
+          [
+            56,
+            2,
+            28
+          ],
+          [
+            48,
+            54,
+            56
+          ],
+          [
+            68,
+            60,
+            62
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 18,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          32,
+          24
+        ],
+        "goal": [
+          24,
+          46
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            20,
+            24,
+            88
+          ],
+          [
+            56,
+            46,
+            82
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            30,
+            28,
+            42
+          ],
+          [
+            40,
+            56,
+            62
+          ],
+          [
+            56,
+            26,
+            30
+          ]
+        ]
+      }
+    },
+    {
+      "map_id": 19,
+      "sample_id": 0,
+      "domain": "scale2",
+      "query": {
+        "start": [
+          10,
+          22
+        ],
+        "goal": [
+          68,
+          34
+        ],
+        "range_x": [
+          0,
+          101
+        ],
+        "range_y": [
+          0,
+          61
+        ],
+        "horizontal_barriers": [
+          [
+            36,
+            90,
+            98
+          ],
+          [
+            8,
+            54,
+            60
+          ]
+        ],
+        "vertical_barriers": [
+          [
+            74,
+            58,
+            60
+          ],
+          [
+            40,
+            26,
+            32
+          ],
+          [
+            98,
+            58,
+            60
+          ]
+        ]
+      }
+    }
+  ],
+  "system_prompt": "You are a path-planning assistant. Reply with only Generated Path: [[x1, y1], [x2, y2], ...]. Use integer coordinates, include the start and goal, and use at most 8 points. Do not write code, explanations, or reasoning.",
+  "options": {
+    "temperature": 0,
+    "seed": 20261001,
+    "num_ctx": 4096,
+    "num_predict": 256,
+    "num_thread": 4
+  },
+  "endpoint": "http://127.0.0.1:11434",
+  "api_cost_usd": 0,
+  "dataset_sha256": "856705d9c27eef8d457c5d79ba33ecd0eb2230835d36a20836376c6f64c6efdc",
+  "prompt_template_sha256": "ab803564c7542be8bd9122da5e6cb5f99a043681348f942bf91f122e36fe447d",
+  "selected_config_sha256": "5982e160f6819efdac7acef26138cc3c4e5b9e2225c5480b1e60b4e947fb87e3",
+  "prompt_change": "Upstream standard_gpt text + grid bounds + shared output-only system instruction chosen on validation, Ollama model template applied; not exact paper reproduction",
+  "source_sha256": "d6992a597dc6bf6f305125de0a3ffa4de5d322d215098bc2016729025c0c3ee9",
+  "parse_policy": "No oracle, output repair, retries, or successful-output selection; parse errors use empty advice"
+}

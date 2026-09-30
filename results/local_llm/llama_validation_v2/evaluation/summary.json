@@ -1,0 +1,212 @@
+[
+  {
+    "domain": "original",
+    "scenario": "actual",
+    "baseline": "legacy",
+    "pairs": 20,
+    "ratios": {
+      "operation": 0.7929702703756675,
+      "storage": 0.9300764879270736,
+      "length": 0.996879004335229
+    },
+    "operation_p95_ratio": 1.495016611295681,
+    "strict_three_improvements": 1,
+    "weak_pareto_improvements": 13
+  },
+  {
+    "domain": "original",
+    "scenario": "actual",
+    "baseline": "fixed_1_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 0.935369852213924,
+      "storage": 1.0112865284689454,
+      "length": 0.9981743084107199
+    },
+    "operation_p95_ratio": 1.6841121495327103,
+    "strict_three_improvements": 0,
+    "weak_pareto_improvements": 10
+  },
+  {
+    "domain": "original",
+    "scenario": "actual",
+    "baseline": "fixed_2_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.3559773056202584,
+      "storage": 1.1785279605940735,
+      "length": 0.9731345985641332
+    },
+    "operation_p95_ratio": 3.2222222222222223,
+    "strict_three_improvements": 2,
+    "weak_pareto_improvements": 7
+  },
+  {
+    "domain": "original",
+    "scenario": "corrupt50",
+    "baseline": "legacy",
+    "pairs": 20,
+    "ratios": {
+      "operation": 0.8153466159385978,
+      "storage": 0.93163919746064,
+      "length": 0.9904763963914451
+    },
+    "operation_p95_ratio": 2.0029498525073746,
+    "strict_three_improvements": 2,
+    "weak_pareto_improvements": 12
+  },
+  {
+    "domain": "original",
+    "scenario": "corrupt50",
+    "baseline": "fixed_1_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 0.9850149497073868,
+      "storage": 1.0220149201814266,
+      "length": 0.9937549703302287
+    },
+    "operation_p95_ratio": 1.9795918367346939,
+    "strict_three_improvements": 1,
+    "weak_pareto_improvements": 9
+  },
+  {
+    "domain": "original",
+    "scenario": "corrupt50",
+    "baseline": "fixed_2_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.3143928324663678,
+      "storage": 1.1437661686295413,
+      "length": 0.9515103147830896
+    },
+    "operation_p95_ratio": 4.704545454545454,
+    "strict_three_improvements": 2,
+    "weak_pareto_improvements": 6
+  },
+  {
+    "domain": "original",
+    "scenario": "drop_half",
+    "baseline": "legacy",
+    "pairs": 20,
+    "ratios": {
+      "operation": 0.9675981791998892,
+      "storage": 1.0672059465764052,
+      "length": 0.9837128973744749
+    },
+    "operation_p95_ratio": 3.1349693251533743,
+    "strict_three_improvements": 0,
+    "weak_pareto_improvements": 10
+  },
+  {
+    "domain": "original",
+    "scenario": "drop_half",
+    "baseline": "fixed_1_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.1616726688598358,
+      "storage": 1.170014305912709,
+      "length": 0.9853603913666206
+    },
+    "operation_p95_ratio": 3.0416666666666665,
+    "strict_three_improvements": 0,
+    "weak_pareto_improvements": 6
+  },
+  {
+    "domain": "original",
+    "scenario": "drop_half",
+    "baseline": "fixed_2_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.4461637808449725,
+      "storage": 1.330651757429677,
+      "length": 0.9675157396612227
+    },
+    "operation_p95_ratio": 3.6546762589928057,
+    "strict_three_improvements": 1,
+    "weak_pareto_improvements": 4
+  },
+  {
+    "domain": "original",
+    "scenario": "none",
+    "baseline": "legacy",
+    "pairs": 20,
+    "ratios": {
+      "operation": 0.9103731566969998,
+      "storage": 0.8932123011774321,
+      "length": 0.995776373827905
+    },
+    "operation_p95_ratio": 1.1311475409836065,
+    "strict_three_improvements": 2,
+    "weak_pareto_improvements": 14
+  },
+  {
+    "domain": "original",
+    "scenario": "none",
+    "baseline": "fixed_1_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.0,
+      "storage": 1.0,
+      "length": 1.0
+    },
+    "operation_p95_ratio": 1.0,
+    "strict_three_improvements": 0,
+    "weak_pareto_improvements": 0
+  },
+  {
+    "domain": "original",
+    "scenario": "none",
+    "baseline": "fixed_2_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.0,
+      "storage": 1.0,
+      "length": 1.0
+    },
+    "operation_p95_ratio": 1.0,
+    "strict_three_improvements": 0,
+    "weak_pareto_improvements": 0
+  },
+  {
+    "domain": "original",
+    "scenario": "reverse",
+    "baseline": "legacy",
+    "pairs": 20,
+    "ratios": {
+      "operation": 0.9488880398680897,
+      "storage": 1.0200412444329117,
+      "length": 1.0005685216294586
+    },
+    "operation_p95_ratio": 3.8031914893617023,
+    "strict_three_improvements": 1,
+    "weak_pareto_improvements": 10
+  },
+  {
+    "domain": "original",
+    "scenario": "reverse",
+    "baseline": "fixed_1_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.0279883026066943,
+      "storage": 1.0461963739025866,
+      "length": 1.0018137563759741
+    },
+    "operation_p95_ratio": 3.4047619047619047,
+    "strict_three_improvements": 1,
+    "weak_pareto_improvements": 9
+  },
+  {
+    "domain": "original",
+    "scenario": "reverse",
+    "baseline": "fixed_2_controlled",
+    "pairs": 20,
+    "ratios": {
+      "operation": 1.3944510519160545,
+      "storage": 1.3005284764346485,
+      "length": 0.9623589096193593
+    },
+    "operation_p95_ratio": 4.956521739130435,
+    "strict_three_improvements": 1,
+    "weak_pareto_improvements": 3
+  }
+]

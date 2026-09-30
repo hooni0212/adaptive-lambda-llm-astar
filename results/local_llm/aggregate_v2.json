@@ -1,0 +1,158 @@
+{
+  "api_cost_usd": 0,
+  "final_responses": 320,
+  "final_evaluation_searches": 6200,
+  "generation_seconds_including_load": 627.7765478,
+  "actual_results": {
+    "qwen": {
+      "legacy": {
+        "domain": "original",
+        "scenario": "actual",
+        "baseline": "legacy",
+        "pairs": 120,
+        "ratios": {
+          "operation": 0.7654951658917494,
+          "storage": 0.8163894773445235,
+          "length": 0.9999097699962269
+        },
+        "operation_p95_ratio": 1.5204081632653061,
+        "strict_three_improvements": 8,
+        "weak_pareto_improvements": 74
+      },
+      "fixed_1_controlled": {
+        "domain": "original",
+        "scenario": "actual",
+        "baseline": "fixed_1_controlled",
+        "pairs": 120,
+        "ratios": {
+          "operation": 0.8703651576553374,
+          "storage": 0.9144337250856356,
+          "length": 1.0026824560101426
+        },
+        "operation_p95_ratio": 1.6428571428571428,
+        "strict_three_improvements": 1,
+        "weak_pareto_improvements": 36
+      },
+      "fixed_2_controlled": {
+        "domain": "original",
+        "scenario": "actual",
+        "baseline": "fixed_2_controlled",
+        "pairs": 120,
+        "ratios": {
+          "operation": 1.0745078178036174,
+          "storage": 1.012849596253622,
+          "length": 0.985311594313214
+        },
+        "operation_p95_ratio": 2.7222222222222223,
+        "strict_three_improvements": 9,
+        "weak_pareto_improvements": 22
+      }
+    },
+    "llama": {
+      "legacy": {
+        "domain": "original",
+        "scenario": "actual",
+        "baseline": "legacy",
+        "pairs": 120,
+        "ratios": {
+          "operation": 0.7814240285720206,
+          "storage": 0.8460105457042416,
+          "length": 0.9945035012364032
+        },
+        "operation_p95_ratio": 3.049586776859504,
+        "strict_three_improvements": 17,
+        "weak_pareto_improvements": 71
+      },
+      "fixed_1_controlled": {
+        "domain": "original",
+        "scenario": "actual",
+        "baseline": "fixed_1_controlled",
+        "pairs": 120,
+        "ratios": {
+          "operation": 0.8554949304322499,
+          "storage": 0.9111395233020798,
+          "length": 1.0011387511176426
+        },
+        "operation_p95_ratio": 2.2429906542056073,
+        "strict_three_improvements": 6,
+        "weak_pareto_improvements": 51
+      },
+      "fixed_2_controlled": {
+        "domain": "original",
+        "scenario": "actual",
+        "baseline": "fixed_2_controlled",
+        "pairs": 120,
+        "ratios": {
+          "operation": 1.0896243749523131,
+          "storage": 0.9817195498227886,
+          "length": 0.9754108235908591
+        },
+        "operation_p95_ratio": 4.719512195121951,
+        "strict_three_improvements": 10,
+        "weak_pareto_improvements": 32
+      }
+    }
+  },
+  "bootstrap_95": {
+    "qwen": {
+      "legacy": {
+        "operation": [
+          0.6914448212727942,
+          0.8398426266163451
+        ],
+        "storage": [
+          0.7594771290705145,
+          0.8719853935953472
+        ],
+        "length": [
+          0.99334787531657,
+          1.006219632405651
+        ]
+      },
+      "fixed_1_controlled": {
+        "operation": [
+          0.793017457411376,
+          0.9446687566458025
+        ],
+        "storage": [
+          0.852074920814017,
+          0.9755553621752086
+        ],
+        "length": [
+          0.996397794076007,
+          1.0090457941559299
+        ]
+      }
+    },
+    "llama": {
+      "legacy": {
+        "operation": [
+          0.6773135131963932,
+          0.8984473462171044
+        ],
+        "storage": [
+          0.7734445748091828,
+          0.9187924351351436
+        ],
+        "length": [
+          0.9876681022553914,
+          1.001880079522696
+        ]
+      },
+      "fixed_1_controlled": {
+        "operation": [
+          0.7716686886671558,
+          0.9470395448529754
+        ],
+        "storage": [
+          0.8464783181301023,
+          0.9804208020927786
+        ],
+        "length": [
+          0.9950738567365105,
+          1.0077617815959479
+        ]
+      }
+    }
+  }
+}

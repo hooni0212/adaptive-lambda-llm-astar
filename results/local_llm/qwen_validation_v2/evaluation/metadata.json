@@ -1,0 +1,209 @@
+{
+  "cases": 20,
+  "rows": 500,
+  "configs": {
+    "astar": {
+      "initial_weight": 0,
+      "interval": 32,
+      "good_progress": 0.0,
+      "slow_decay": 0.8,
+      "stalled_decay": 0.5,
+      "min_weight": 0.0,
+      "use_progress": false,
+      "use_budget": false,
+      "budget_factor": 8.0,
+      "use_detour": false,
+      "detour_alpha": 0.75,
+      "final_goal_weight": 0,
+      "reopen": true,
+      "skip": false
+    },
+    "fixed_1_controlled": {
+      "initial_weight": 1,
+      "interval": 32,
+      "good_progress": 0,
+      "slow_decay": 0.8,
+      "stalled_decay": 0.5,
+      "min_weight": 0.1,
+      "use_progress": false,
+      "use_budget": false,
+      "budget_factor": 8,
+      "use_detour": false,
+      "detour_alpha": 0.75,
+      "final_goal_weight": 1,
+      "reopen": true,
+      "skip": false
+    },
+    "fixed_2_controlled": {
+      "initial_weight": 2,
+      "interval": 32,
+      "good_progress": 0,
+      "slow_decay": 0.8,
+      "stalled_decay": 0.5,
+      "min_weight": 0.1,
+      "use_progress": false,
+      "use_budget": false,
+      "budget_factor": 8,
+      "use_detour": false,
+      "detour_alpha": 0.75,
+      "final_goal_weight": 1,
+      "reopen": true,
+      "skip": false
+    },
+    "adaptive": {
+      "initial_weight": 2,
+      "interval": 32,
+      "good_progress": 0,
+      "slow_decay": 0.8,
+      "stalled_decay": 0.5,
+      "min_weight": 0.1,
+      "use_progress": true,
+      "use_budget": true,
+      "budget_factor": 8,
+      "use_detour": true,
+      "detour_alpha": 0.75,
+      "final_goal_weight": 1,
+      "reopen": true,
+      "skip": false
+    }
+  },
+  "advice_source": "Actual local model output; errors retained as empty advice; stress variants are synthetic modifications",
+  "case_identifiers": [
+    {
+      "map_id": 1,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 1,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 2,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 3,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 4,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 6,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 7,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 8,
+      "domain": "original"
+    },
+    {
+      "map_id": 1,
+      "sample_id": 9,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 1,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 2,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 3,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 4,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 6,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 7,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 8,
+      "domain": "original"
+    },
+    {
+      "map_id": 2,
+      "sample_id": 9,
+      "domain": "original"
+    }
+  ],
+  "model": {
+    "name": "qwen2.5:1.5b",
+    "digest": "65ec06548149b04c096a120e4a6da9d4017ea809c91734ea5631e89f96ddc57b",
+    "size": 986061892,
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "qwen2",
+      "families": [
+        "qwen2"
+      ],
+      "parameter_size": "1.5B",
+      "quantization_level": "Q4_K_M"
+    },
+    "template_sha256": "eb4402837c7829a690fa845de4d7f3fd842c2adee476d5341da8a46ea9255175",
+    "system_sha256": "66b9ea09bd5b7099cbb4fc820f31b575c0366fa439b08245566692c6784e281e",
+    "ollama_version": "0.17.4",
+    "options": {
+      "temperature": 0,
+      "seed": 20261001,
+      "num_ctx": 4096,
+      "num_predict": 256,
+      "num_thread": 4
+    },
+    "plan_sha256": "eceda147245c03d69f11c393a05ce4b80810b69363804a0291eac5818ec76d6f"
+  },
+  "memory": "tracemalloc Python planner only; shared graph/native/model memory excluded",
+  "runtime": "Planner-only, graph construction, model generation, memory tracing and oracle excluded",
+  "source_sha256": {
+    "benchmarks/local_evaluate.py": "842f3cf467fd82540c3ee1347965edfd029999e0ae1adb8b245f244f02116fbe",
+    "llmastar/adaptive.py": "f61bfd1f92395b56236912813a95fe1902083280a5c3806b5d310da7de114fbd",
+    "benchmarks/legacy.py": "66ee80d43bd47ca266be6b3730c6b14149739c7e645e67b753e1235c786de4a0"
+  },
+  "traces_uncompressed_sha256": "085c15c96bf52d440d36cec27b82089655e252c3685c6aaad5101017ded5eb65",
+  "traces_compressed_sha256": "4a28086ef59ae3b69d03e66e65cf6f2aadca50699914612eaff49496ba94a85f",
+  "api_cost_usd": 0
+}

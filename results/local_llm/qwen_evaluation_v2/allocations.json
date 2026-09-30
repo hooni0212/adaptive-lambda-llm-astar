@@ -1,0 +1,2242 @@
+[
+  {
+    "map_id": 3,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 49784,
+    "success": true
+  },
+  {
+    "map_id": 3,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 49744,
+    "success": true
+  },
+  {
+    "map_id": 3,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24472,
+    "success": true
+  },
+  {
+    "map_id": 3,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23760,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 11432,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 11432,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 43696,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 43720,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 52360,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 44584,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 80976,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 80680,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 28016,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 30464,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 94016,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 94072,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26616,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26432,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 45208,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 45176,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 48672,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23360,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 14408,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 13240,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44888,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 44240,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 45224,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 45216,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26936,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26880,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44296,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 29152,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 42448,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 12896,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 97888,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 42600,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 21912,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26040,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 37152,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 29360,
+    "success": true
+  },
+  {
+    "map_id": 23,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 45352,
+    "success": true
+  },
+  {
+    "map_id": 23,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 25736,
+    "success": true
+  },
+  {
+    "map_id": 23,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 54520,
+    "success": true
+  },
+  {
+    "map_id": 23,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 53736,
+    "success": true
+  },
+  {
+    "map_id": 24,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 25280,
+    "success": true
+  },
+  {
+    "map_id": 24,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 25216,
+    "success": true
+  },
+  {
+    "map_id": 24,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 99296,
+    "success": true
+  },
+  {
+    "map_id": 24,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 40080,
+    "success": true
+  },
+  {
+    "map_id": 26,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24032,
+    "success": true
+  },
+  {
+    "map_id": 26,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23968,
+    "success": true
+  },
+  {
+    "map_id": 26,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 22456,
+    "success": true
+  },
+  {
+    "map_id": 26,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 21880,
+    "success": true
+  },
+  {
+    "map_id": 27,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 15144,
+    "success": true
+  },
+  {
+    "map_id": 27,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 14240,
+    "success": true
+  },
+  {
+    "map_id": 27,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24400,
+    "success": true
+  },
+  {
+    "map_id": 27,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 24184,
+    "success": true
+  },
+  {
+    "map_id": 28,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24600,
+    "success": true
+  },
+  {
+    "map_id": 28,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 24488,
+    "success": true
+  },
+  {
+    "map_id": 28,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 37512,
+    "success": true
+  },
+  {
+    "map_id": 28,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 37456,
+    "success": true
+  },
+  {
+    "map_id": 29,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 25248,
+    "success": true
+  },
+  {
+    "map_id": 29,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 24664,
+    "success": true
+  },
+  {
+    "map_id": 29,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 41832,
+    "success": true
+  },
+  {
+    "map_id": 29,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 102888,
+    "success": true
+  },
+  {
+    "map_id": 30,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 72272,
+    "success": true
+  },
+  {
+    "map_id": 30,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 72304,
+    "success": true
+  },
+  {
+    "map_id": 30,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44760,
+    "success": true
+  },
+  {
+    "map_id": 30,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 16808,
+    "success": true
+  },
+  {
+    "map_id": 31,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 7616,
+    "success": true
+  },
+  {
+    "map_id": 31,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 11352,
+    "success": true
+  },
+  {
+    "map_id": 31,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 30232,
+    "success": true
+  },
+  {
+    "map_id": 31,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 20488,
+    "success": true
+  },
+  {
+    "map_id": 32,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 49120,
+    "success": true
+  },
+  {
+    "map_id": 32,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 50360,
+    "success": true
+  },
+  {
+    "map_id": 32,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 47520,
+    "success": true
+  },
+  {
+    "map_id": 32,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 47464,
+    "success": true
+  },
+  {
+    "map_id": 33,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 23648,
+    "success": true
+  },
+  {
+    "map_id": 33,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23560,
+    "success": true
+  },
+  {
+    "map_id": 33,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 40952,
+    "success": true
+  },
+  {
+    "map_id": 33,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 42048,
+    "success": true
+  },
+  {
+    "map_id": 34,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 78080,
+    "success": true
+  },
+  {
+    "map_id": 34,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 105840,
+    "success": true
+  },
+  {
+    "map_id": 34,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 41408,
+    "success": true
+  },
+  {
+    "map_id": 34,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 27144,
+    "success": true
+  },
+  {
+    "map_id": 37,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 46248,
+    "success": true
+  },
+  {
+    "map_id": 37,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 46224,
+    "success": true
+  },
+  {
+    "map_id": 37,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 98160,
+    "success": true
+  },
+  {
+    "map_id": 37,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 41656,
+    "success": true
+  },
+  {
+    "map_id": 40,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 29672,
+    "success": true
+  },
+  {
+    "map_id": 40,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 29480,
+    "success": true
+  },
+  {
+    "map_id": 40,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 109008,
+    "success": true
+  },
+  {
+    "map_id": 40,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 104360,
+    "success": true
+  },
+  {
+    "map_id": 41,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 43992,
+    "success": true
+  },
+  {
+    "map_id": 41,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 44256,
+    "success": true
+  },
+  {
+    "map_id": 41,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 101512,
+    "success": true
+  },
+  {
+    "map_id": 41,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 156304,
+    "success": true
+  },
+  {
+    "map_id": 43,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 158840,
+    "success": true
+  },
+  {
+    "map_id": 43,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 279504,
+    "success": true
+  },
+  {
+    "map_id": 43,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 39264,
+    "success": true
+  },
+  {
+    "map_id": 43,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 39240,
+    "success": true
+  },
+  {
+    "map_id": 44,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26400,
+    "success": true
+  },
+  {
+    "map_id": 44,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26312,
+    "success": true
+  },
+  {
+    "map_id": 44,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 49288,
+    "success": true
+  },
+  {
+    "map_id": 44,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 49232,
+    "success": true
+  },
+  {
+    "map_id": 46,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 20080,
+    "success": true
+  },
+  {
+    "map_id": 46,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 15736,
+    "success": true
+  },
+  {
+    "map_id": 46,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 77736,
+    "success": true
+  },
+  {
+    "map_id": 46,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 75888,
+    "success": true
+  },
+  {
+    "map_id": 47,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 51592,
+    "success": true
+  },
+  {
+    "map_id": 47,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 52048,
+    "success": true
+  },
+  {
+    "map_id": 47,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 41440,
+    "success": true
+  },
+  {
+    "map_id": 47,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 41984,
+    "success": true
+  },
+  {
+    "map_id": 48,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 48680,
+    "success": true
+  },
+  {
+    "map_id": 48,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 48624,
+    "success": true
+  },
+  {
+    "map_id": 48,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 48032,
+    "success": true
+  },
+  {
+    "map_id": 48,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 45048,
+    "success": true
+  },
+  {
+    "map_id": 49,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 43536,
+    "success": true
+  },
+  {
+    "map_id": 49,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 51992,
+    "success": true
+  },
+  {
+    "map_id": 49,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 37008,
+    "success": true
+  },
+  {
+    "map_id": 49,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 28360,
+    "success": true
+  },
+  {
+    "map_id": 50,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 25280,
+    "success": true
+  },
+  {
+    "map_id": 50,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26592,
+    "success": true
+  },
+  {
+    "map_id": 50,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 48744,
+    "success": true
+  },
+  {
+    "map_id": 50,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 45248,
+    "success": true
+  },
+  {
+    "map_id": 52,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 23944,
+    "success": true
+  },
+  {
+    "map_id": 52,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23832,
+    "success": true
+  },
+  {
+    "map_id": 52,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 156208,
+    "success": true
+  },
+  {
+    "map_id": 52,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 49296,
+    "success": true
+  },
+  {
+    "map_id": 53,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 28176,
+    "success": true
+  },
+  {
+    "map_id": 53,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 27952,
+    "success": true
+  },
+  {
+    "map_id": 53,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 22664,
+    "success": true
+  },
+  {
+    "map_id": 53,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 20328,
+    "success": true
+  },
+  {
+    "map_id": 56,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 28960,
+    "success": true
+  },
+  {
+    "map_id": 56,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 29152,
+    "success": true
+  },
+  {
+    "map_id": 56,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 38344,
+    "success": true
+  },
+  {
+    "map_id": 56,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 38288,
+    "success": true
+  },
+  {
+    "map_id": 57,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 20464,
+    "success": true
+  },
+  {
+    "map_id": 57,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 20376,
+    "success": true
+  },
+  {
+    "map_id": 57,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 41968,
+    "success": true
+  },
+  {
+    "map_id": 57,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26216,
+    "success": true
+  },
+  {
+    "map_id": 58,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 19720,
+    "success": true
+  },
+  {
+    "map_id": 58,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 19664,
+    "success": true
+  },
+  {
+    "map_id": 58,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 42896,
+    "success": true
+  },
+  {
+    "map_id": 58,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 44576,
+    "success": true
+  },
+  {
+    "map_id": 59,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 148208,
+    "success": true
+  },
+  {
+    "map_id": 59,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 109552,
+    "success": true
+  },
+  {
+    "map_id": 59,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 45040,
+    "success": true
+  },
+  {
+    "map_id": 59,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 45992,
+    "success": true
+  },
+  {
+    "map_id": 61,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 23176,
+    "success": true
+  },
+  {
+    "map_id": 61,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23064,
+    "success": true
+  },
+  {
+    "map_id": 61,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 29464,
+    "success": true
+  },
+  {
+    "map_id": 61,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 29376,
+    "success": true
+  },
+  {
+    "map_id": 64,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26512,
+    "success": true
+  },
+  {
+    "map_id": 64,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26376,
+    "success": true
+  },
+  {
+    "map_id": 64,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 49248,
+    "success": true
+  },
+  {
+    "map_id": 64,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 49344,
+    "success": true
+  },
+  {
+    "map_id": 67,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 13664,
+    "success": true
+  },
+  {
+    "map_id": 67,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 13552,
+    "success": true
+  },
+  {
+    "map_id": 67,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 45472,
+    "success": true
+  },
+  {
+    "map_id": 67,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 45728,
+    "success": true
+  },
+  {
+    "map_id": 68,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 77400,
+    "success": true
+  },
+  {
+    "map_id": 68,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 161928,
+    "success": true
+  },
+  {
+    "map_id": 68,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24536,
+    "success": true
+  },
+  {
+    "map_id": 68,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 24680,
+    "success": true
+  },
+  {
+    "map_id": 69,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24608,
+    "success": true
+  },
+  {
+    "map_id": 69,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26480,
+    "success": true
+  },
+  {
+    "map_id": 69,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 114480,
+    "success": true
+  },
+  {
+    "map_id": 69,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 76592,
+    "success": true
+  },
+  {
+    "map_id": 71,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 46352,
+    "success": true
+  },
+  {
+    "map_id": 71,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 46376,
+    "success": true
+  },
+  {
+    "map_id": 71,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 148176,
+    "success": true
+  },
+  {
+    "map_id": 71,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 148152,
+    "success": true
+  },
+  {
+    "map_id": 72,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 19008,
+    "success": true
+  },
+  {
+    "map_id": 72,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 11424,
+    "success": true
+  },
+  {
+    "map_id": 72,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 99720,
+    "success": true
+  },
+  {
+    "map_id": 72,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 43248,
+    "success": true
+  },
+  {
+    "map_id": 74,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44336,
+    "success": true
+  },
+  {
+    "map_id": 74,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 44312,
+    "success": true
+  },
+  {
+    "map_id": 74,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 107952,
+    "success": true
+  },
+  {
+    "map_id": 74,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 107928,
+    "success": true
+  },
+  {
+    "map_id": 75,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 154272,
+    "success": true
+  },
+  {
+    "map_id": 75,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 44640,
+    "success": true
+  },
+  {
+    "map_id": 75,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 23824,
+    "success": true
+  },
+  {
+    "map_id": 75,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 27488,
+    "success": true
+  },
+  {
+    "map_id": 76,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 22688,
+    "success": true
+  },
+  {
+    "map_id": 76,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 22432,
+    "success": true
+  },
+  {
+    "map_id": 76,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 50520,
+    "success": true
+  },
+  {
+    "map_id": 76,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 50464,
+    "success": true
+  },
+  {
+    "map_id": 77,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44264,
+    "success": true
+  },
+  {
+    "map_id": 77,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 44232,
+    "success": true
+  },
+  {
+    "map_id": 77,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 13304,
+    "success": true
+  },
+  {
+    "map_id": 77,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 13000,
+    "success": true
+  },
+  {
+    "map_id": 78,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44352,
+    "success": true
+  },
+  {
+    "map_id": 78,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 49520,
+    "success": true
+  },
+  {
+    "map_id": 78,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 22192,
+    "success": true
+  },
+  {
+    "map_id": 78,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 22080,
+    "success": true
+  },
+  {
+    "map_id": 79,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26496,
+    "success": true
+  },
+  {
+    "map_id": 79,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 26384,
+    "success": true
+  },
+  {
+    "map_id": 79,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 22904,
+    "success": true
+  },
+  {
+    "map_id": 79,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 22816,
+    "success": true
+  },
+  {
+    "map_id": 80,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 22352,
+    "success": true
+  },
+  {
+    "map_id": 80,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 22152,
+    "success": true
+  },
+  {
+    "map_id": 80,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 13112,
+    "success": true
+  },
+  {
+    "map_id": 80,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 15136,
+    "success": true
+  },
+  {
+    "map_id": 83,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 41512,
+    "success": true
+  },
+  {
+    "map_id": 83,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 43544,
+    "success": true
+  },
+  {
+    "map_id": 83,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 103152,
+    "success": true
+  },
+  {
+    "map_id": 83,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 70896,
+    "success": true
+  },
+  {
+    "map_id": 86,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 25680,
+    "success": true
+  },
+  {
+    "map_id": 86,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 33592,
+    "success": true
+  },
+  {
+    "map_id": 86,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24544,
+    "success": true
+  },
+  {
+    "map_id": 86,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 24432,
+    "success": true
+  },
+  {
+    "map_id": 88,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 107792,
+    "success": true
+  },
+  {
+    "map_id": 88,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 156032,
+    "success": true
+  },
+  {
+    "map_id": 88,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44096,
+    "success": true
+  },
+  {
+    "map_id": 88,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 43704,
+    "success": true
+  },
+  {
+    "map_id": 91,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 75448,
+    "success": true
+  },
+  {
+    "map_id": 91,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 47928,
+    "success": true
+  },
+  {
+    "map_id": 91,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 153600,
+    "success": true
+  },
+  {
+    "map_id": 91,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 42488,
+    "success": true
+  },
+  {
+    "map_id": 92,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 19632,
+    "success": true
+  },
+  {
+    "map_id": 92,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 19544,
+    "success": true
+  },
+  {
+    "map_id": 92,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 5912,
+    "success": true
+  },
+  {
+    "map_id": 92,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 5800,
+    "success": true
+  },
+  {
+    "map_id": 93,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 37816,
+    "success": true
+  },
+  {
+    "map_id": 93,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 37752,
+    "success": true
+  },
+  {
+    "map_id": 93,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24312,
+    "success": true
+  },
+  {
+    "map_id": 93,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 24200,
+    "success": true
+  },
+  {
+    "map_id": 96,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 41912,
+    "success": true
+  },
+  {
+    "map_id": 96,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 29968,
+    "success": true
+  },
+  {
+    "map_id": 96,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 23936,
+    "success": true
+  },
+  {
+    "map_id": 96,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23824,
+    "success": true
+  },
+  {
+    "map_id": 97,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 100040,
+    "success": true
+  },
+  {
+    "map_id": 97,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 99984,
+    "success": true
+  },
+  {
+    "map_id": 97,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 27688,
+    "success": true
+  },
+  {
+    "map_id": 97,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 23864,
+    "success": true
+  },
+  {
+    "map_id": 98,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 50136,
+    "success": true
+  },
+  {
+    "map_id": 98,
+    "sample_id": 0,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 50112,
+    "success": true
+  },
+  {
+    "map_id": 98,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 25112,
+    "success": true
+  },
+  {
+    "map_id": 98,
+    "sample_id": 5,
+    "domain": "original",
+    "method": "adaptive",
+    "peak_python_bytes": 25656,
+    "success": true
+  },
+  {
+    "map_id": 3,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 33120,
+    "success": true
+  },
+  {
+    "map_id": 3,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 33200,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 11488,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 11488,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 155568,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 102920,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 27712,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 27712,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26176,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 21872,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 48416,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 30344,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 40312,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 42256,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 43872,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 42872,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 12984,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 12792,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 21872,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 0,
+    "domain": "transpose",
+    "method": "adaptive",
+    "peak_python_bytes": 21872,
+    "success": true
+  },
+  {
+    "map_id": 3,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 90536,
+    "success": true
+  },
+  {
+    "map_id": 3,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 90592,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 124280,
+    "success": true
+  },
+  {
+    "map_id": 4,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 77648,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 106496,
+    "success": true
+  },
+  {
+    "map_id": 6,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 165144,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 50528,
+    "success": true
+  },
+  {
+    "map_id": 7,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 50776,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 372976,
+    "success": true
+  },
+  {
+    "map_id": 9,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 80384,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26688,
+    "success": true
+  },
+  {
+    "map_id": 11,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 26688,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 156488,
+    "success": true
+  },
+  {
+    "map_id": 15,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 153592,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 370344,
+    "success": true
+  },
+  {
+    "map_id": 17,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 101480,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 154216,
+    "success": true
+  },
+  {
+    "map_id": 18,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 42784,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 86008,
+    "success": true
+  },
+  {
+    "map_id": 19,
+    "sample_id": 0,
+    "domain": "scale2",
+    "method": "adaptive",
+    "peak_python_bytes": 46264,
+    "success": true
+  }
+]

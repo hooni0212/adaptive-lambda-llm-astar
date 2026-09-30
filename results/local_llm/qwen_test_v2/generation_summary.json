@@ -1,0 +1,8 @@
+{
+  "responses": 120,
+  "parse_errors": 1,
+  "truncated": 0,
+  "eval_tokens": 4277,
+  "total_generation_seconds": 86.792581919,
+  "api_cost_usd": 0
+}
