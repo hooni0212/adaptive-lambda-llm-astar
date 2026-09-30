@@ -32,3 +32,16 @@ jobs:
           --config benchmarks/selected_config.json
           --methods astar fixed_1_controlled adaptive
           --output /tmp/adaptive-lambda-smoke
+      - name: Replay saved real local-model advice without model calls
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from benchmarks.local_evaluate import evaluate
+          for prefix in ['qwen', 'llama']:
+              root = Path('results/local_llm')
+              records = json.loads((root / f'{prefix}_test_v2/waypoints.json').read_text())[:4]
+              for domain in ['transpose', 'scale2']:
+                  records += json.loads((root / f'{prefix}_{domain}_v2/waypoints.json').read_text())[:1]
+              evaluate(records, Path('/tmp') / f'{prefix}-cached-replay')
+          PY
