@@ -1,0 +1,643 @@
+{
+  "protocol": "local-free-v2",
+  "models": [
+    "qwen2.5:1.5b",
+    "llama3.2:3b"
+  ],
+  "hardware": "Apple M3, 8 GB RAM; one model at a time",
+  "api_cost_usd": 0,
+  "network_for_inference": "127.0.0.1 only; no keys, remote hosts, redirects, or cloud tags",
+  "system_prompt": "You are a path-planning assistant. Reply with only Generated Path: [[x1, y1], [x2, y2], ...]. Use integer coordinates, include the start and goal, and use at most 8 points. Do not write code, explanations, or reasoning.",
+  "options": {
+    "temperature": 0,
+    "seed": 20261001,
+    "num_ctx": 4096,
+    "num_predict": 256,
+    "num_thread": 4
+  },
+  "format_selection": "Shared output-only system instruction chosen on 20 validation cases per model, after preserving v1 failure records; no lambda retuning",
+  "original_case_selection": "All 60 test maps; sample IDs 0 and 5, selected in code before generation",
+  "original_cases": [
+    {
+      "map_id": 3,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 3,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 4,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 4,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 6,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 6,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 7,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 7,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 9,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 9,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 11,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 11,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 15,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 15,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 17,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 17,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 18,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 18,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 19,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 19,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 23,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 23,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 24,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 24,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 26,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 26,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 27,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 27,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 28,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 28,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 29,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 29,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 30,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 30,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 31,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 31,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 32,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 32,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 33,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 33,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 34,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 34,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 37,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 37,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 40,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 40,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 41,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 41,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 43,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 43,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 44,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 44,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 46,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 46,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 47,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 47,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 48,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 48,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 49,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 49,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 50,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 50,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 52,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 52,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 53,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 53,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 56,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 56,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 57,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 57,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 58,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 58,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 59,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 59,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 61,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 61,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 64,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 64,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 67,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 67,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 68,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 68,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 69,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 69,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 71,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 71,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 72,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 72,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 74,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 74,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 75,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 75,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 76,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 76,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 77,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 77,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 78,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 78,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 79,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 79,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 80,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 80,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 83,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 83,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 86,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 86,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 88,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 88,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 91,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 91,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 92,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 92,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 93,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 93,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 96,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 96,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 97,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 97,
+      "sample_id": 5,
+      "domain": "original"
+    },
+    {
+      "map_id": 98,
+      "sample_id": 0,
+      "domain": "original"
+    },
+    {
+      "map_id": 98,
+      "sample_id": 5,
+      "domain": "original"
+    }
+  ],
+  "transfer_case_selection": "First 10 test maps in dataset order, sample ID 0, transpose and scale2; each model generates new advice for transformed input",
+  "comparators": [
+    "legacy",
+    "astar",
+    "fixed_1_controlled",
+    "fixed_2_controlled",
+    "adaptive"
+  ],
+  "conditions": [
+    "actual",
+    "reverse",
+    "drop_half",
+    "corrupt50",
+    "none"
+  ],
+  "transfer_conditions": [
+    "actual"
+  ],
+  "analysis": "Paired geometric ratios, map-cluster bootstrap 2000 resamples, operation p95, strict/weak Pareto counts, parse/endpoint errors, traced Python allocations; failures not dropped",
+  "selected_config_sha256": "5982e160f6819efdac7acef26138cc3c4e5b9e2225c5480b1e60b4e947fb87e3",
+  "limitations": "Quantized small models and additional output instruction differ from the original paper; 120/600 queries sampled, all maps represented; synthetic stress variants; no multiple generation seeds; no first-solution optimality or worst-case expansion guarantee"
+}
