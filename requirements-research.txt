@@ -1,0 +1,4 @@
+# The planner and benchmark harness use Python standard library only.
+# Optional verification and report rendering:
+shapely==2.1.2
+matplotlib==3.11.2

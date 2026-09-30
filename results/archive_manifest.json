@@ -1,0 +1,26 @@
+[
+  {
+    "path": "results/assistant_pilot/traces.json.gz",
+    "uncompressed_path": "results/assistant_pilot/traces.json",
+    "uncompressed_bytes": 33131,
+    "compressed_bytes": 3064,
+    "uncompressed_sha256": "3c1c17d28856b12ae3fe93f28854bdff76a8b80b0bdd8a37c3ac069af6b98413",
+    "compressed_sha256": "f489011d8f38dc2c86e0fd4ccfa69a25adfd472418991b8d4911b0007c95a8ed"
+  },
+  {
+    "path": "results/test/traces.json.gz",
+    "uncompressed_path": "results/test/traces.json",
+    "uncompressed_bytes": 41733946,
+    "compressed_bytes": 1360252,
+    "uncompressed_sha256": "9f6a9b966633a18fe93c45c72bbdd9a33e84b6abf0c08eee1f6dd030de63d0d9",
+    "compressed_sha256": "cd36a4a53b8a986258bb17848f19ee50a50fb64a76e6b746700c4f236edde819"
+  },
+  {
+    "path": "results/validation/traces.json.gz",
+    "uncompressed_path": "results/validation/traces.json",
+    "uncompressed_bytes": 15131778,
+    "compressed_bytes": 494189,
+    "uncompressed_sha256": "18221911d8d938d56d281b506bb55e270bbaa70c67ba68a97dbdcf7dc281bae4",
+    "compressed_sha256": "25ff72aa697bf3afa581f4268860960b55f593fde3cd00ee85e8c8a3cbb45fd0"
+  }
+]

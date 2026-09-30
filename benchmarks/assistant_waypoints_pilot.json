@@ -1,0 +1,791 @@
+[
+  {
+    "map_id": 3,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        34,
+        16
+      ],
+      [
+        34,
+        14
+      ],
+      [
+        21,
+        3
+      ],
+      [
+        19,
+        3
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        40,
+        20
+      ],
+      "goal": [
+        10,
+        10
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          15,
+          20,
+          30
+        ],
+        [
+          15,
+          35,
+          50
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          20,
+          4,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 4,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        10,
+        10
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        4,
+        4
+      ],
+      "goal": [
+        16,
+        16
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          20,
+          0,
+          20
+        ],
+        [
+          5,
+          30,
+          40
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          40,
+          0,
+          15
+        ],
+        [
+          20,
+          10,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 6,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        16,
+        26
+      ],
+      [
+        18,
+        26
+      ],
+      [
+        33,
+        17
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        7,
+        17
+      ],
+      "goal": [
+        42,
+        15
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          21,
+          31,
+          34
+        ],
+        [
+          0,
+          26,
+          36
+        ],
+        [
+          12,
+          9,
+          25
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          32,
+          6,
+          16
+        ],
+        [
+          3,
+          2,
+          15
+        ],
+        [
+          17,
+          1,
+          25
+        ],
+        [
+          50,
+          10,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 7,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        8,
+        25
+      ],
+      [
+        10,
+        25
+      ],
+      [
+        35,
+        23
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        1,
+        24
+      ],
+      "goal": [
+        44,
+        23
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          13,
+          34,
+          35
+        ],
+        [
+          4,
+          47,
+          50
+        ],
+        [
+          4,
+          3,
+          49
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          44,
+          14,
+          14
+        ],
+        [
+          9,
+          6,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 9,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        19,
+        25
+      ],
+      [
+        19,
+        23
+      ],
+      [
+        16,
+        23
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        25,
+        25
+      ],
+      "goal": [
+        6,
+        8
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          24,
+          20,
+          48
+        ],
+        [
+          6,
+          50,
+          51
+        ],
+        [
+          30,
+          40,
+          46
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          10,
+          23,
+          27
+        ],
+        [
+          17,
+          24,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 11,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        40,
+        18
+      ],
+      [
+        40,
+        20
+      ],
+      [
+        45,
+        23
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        36,
+        17
+      ],
+      "goal": [
+        49,
+        26
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          2,
+          46,
+          49
+        ],
+        [
+          19,
+          18,
+          39
+        ],
+        [
+          25,
+          5,
+          13
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          39,
+          27,
+          30
+        ],
+        [
+          30,
+          23,
+          25
+        ],
+        [
+          24,
+          11,
+          16
+        ],
+        [
+          3,
+          26,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 15,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        42,
+        15
+      ],
+      [
+        42,
+        17
+      ],
+      [
+        34,
+        20
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        32,
+        3
+      ],
+      "goal": [
+        33,
+        21
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          16,
+          26,
+          41
+        ],
+        [
+          21,
+          24,
+          32
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          28,
+          2,
+          23
+        ],
+        [
+          12,
+          30,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 17,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        29,
+        15
+      ],
+      [
+        27,
+        15
+      ],
+      [
+        13,
+        13
+      ],
+      [
+        11,
+        13
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        31,
+        7
+      ],
+      "goal": [
+        4,
+        13
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          4,
+          13,
+          48
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          12,
+          6,
+          11
+        ],
+        [
+          28,
+          1,
+          14
+        ],
+        [
+          24,
+          27,
+          28
+        ],
+        [
+          34,
+          30,
+          31
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 18,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        14,
+        13
+      ],
+      [
+        13,
+        18
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        16,
+        12
+      ],
+      "goal": [
+        12,
+        23
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          10,
+          12,
+          44
+        ],
+        [
+          28,
+          23,
+          41
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          15,
+          14,
+          21
+        ],
+        [
+          20,
+          28,
+          31
+        ],
+        [
+          28,
+          13,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 19,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        19,
+        17
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        5,
+        11
+      ],
+      "goal": [
+        34,
+        17
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          18,
+          45,
+          49
+        ],
+        [
+          4,
+          27,
+          30
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          37,
+          29,
+          30
+        ],
+        [
+          20,
+          13,
+          16
+        ],
+        [
+          49,
+          29,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 23,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        37,
+        13
+      ],
+      [
+        35,
+        13
+      ],
+      [
+        15,
+        12
+      ],
+      [
+        15,
+        10
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        42,
+        15
+      ],
+      "goal": [
+        9,
+        9
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          11,
+          16,
+          47
+        ],
+        [
+          23,
+          45,
+          47
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          10,
+          1,
+          7
+        ],
+        [
+          36,
+          14,
+          31
+        ],
+        [
+          6,
+          6,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "map_id": 24,
+    "sample_id": 0,
+    "waypoints": [
+      [
+        43,
+        21
+      ],
+      [
+        45,
+        21
+      ]
+    ],
+    "provenance": "Current chat assistant authored these suggestions from barrier/start/goal descriptions, before examining per-case planner results. Illustrative 12-case pilot; NOT GPT-3.5/LLAMA3 paper outputs; exact session model/version not recorded.",
+    "input": {
+      "start": [
+        2,
+        24
+      ],
+      "goal": [
+        45,
+        23
+      ],
+      "range_x": [
+        0,
+        51
+      ],
+      "range_y": [
+        0,
+        31
+      ],
+      "horizontal_barriers": [
+        [
+          4,
+          31,
+          49
+        ],
+        [
+          24,
+          18,
+          18
+        ]
+      ],
+      "vertical_barriers": [
+        [
+          44,
+          22,
+          27
+        ],
+        [
+          17,
+          5,
+          15
+        ],
+        [
+          35,
+          16,
+          19
+        ],
+        [
+          14,
+          30,
+          31
+        ]
+      ]
+    }
+  }
+]

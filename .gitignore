@@ -130,3 +130,10 @@ config.json
 
 outcome/*
 main.py
+
+# Local research outputs: compact lossless archives are tracked instead.
+results/**/traces.json
+.env
+.env.*
+!.env.example
+tmp/

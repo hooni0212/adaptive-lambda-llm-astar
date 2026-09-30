@@ -1,0 +1,9 @@
+{
+  "configuration": "benchmarks/selected_config.json",
+  "split": "validation",
+  "guidance": "synthetic oracle/corruption; NOT LLM",
+  "transfer": "transpose, scale2, destination-dependent edge costs",
+  "samples_per_domain": 180,
+  "allocation_samples_per_method": 40,
+  "allocations": "tracemalloc planner-only Python bytes, warmed shared graph excluded"
+}

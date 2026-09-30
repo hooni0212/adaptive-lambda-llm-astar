@@ -1,0 +1,842 @@
+[
+  {
+    "map_id": 1,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 30032
+  },
+  {
+    "map_id": 1,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 42208
+  },
+  {
+    "map_id": 1,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 30000
+  },
+  {
+    "map_id": 1,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 50120
+  },
+  {
+    "map_id": 1,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 53208
+  },
+  {
+    "map_id": 1,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 52288
+  },
+  {
+    "map_id": 1,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 71984
+  },
+  {
+    "map_id": 1,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 49760
+  },
+  {
+    "map_id": 1,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 48864
+  },
+  {
+    "map_id": 1,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 158376
+  },
+  {
+    "map_id": 1,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 153656
+  },
+  {
+    "map_id": 1,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 77536
+  },
+  {
+    "map_id": 2,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 13584
+  },
+  {
+    "map_id": 2,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 13488
+  },
+  {
+    "map_id": 2,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 13608
+  },
+  {
+    "map_id": 2,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 26640
+  },
+  {
+    "map_id": 2,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 41504
+  },
+  {
+    "map_id": 2,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 59176
+  },
+  {
+    "map_id": 2,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 23800
+  },
+  {
+    "map_id": 2,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 23720
+  },
+  {
+    "map_id": 2,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 23848
+  },
+  {
+    "map_id": 2,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 98888
+  },
+  {
+    "map_id": 2,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 103544
+  },
+  {
+    "map_id": 2,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 50840
+  },
+  {
+    "map_id": 8,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 44312
+  },
+  {
+    "map_id": 8,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44168
+  },
+  {
+    "map_id": 8,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 44192
+  },
+  {
+    "map_id": 8,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 94152
+  },
+  {
+    "map_id": 8,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 153368
+  },
+  {
+    "map_id": 8,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 153048
+  },
+  {
+    "map_id": 8,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 98656
+  },
+  {
+    "map_id": 8,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 95592
+  },
+  {
+    "map_id": 8,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 101208
+  },
+  {
+    "map_id": 8,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 153728
+  },
+  {
+    "map_id": 8,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 148128
+  },
+  {
+    "map_id": 8,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 101984
+  },
+  {
+    "map_id": 22,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 94088
+  },
+  {
+    "map_id": 22,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 98608
+  },
+  {
+    "map_id": 22,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 98176
+  },
+  {
+    "map_id": 22,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 154184
+  },
+  {
+    "map_id": 22,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 96560
+  },
+  {
+    "map_id": 22,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 99376
+  },
+  {
+    "map_id": 22,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 13160
+  },
+  {
+    "map_id": 22,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 13184
+  },
+  {
+    "map_id": 22,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 13064
+  },
+  {
+    "map_id": 22,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 29096
+  },
+  {
+    "map_id": 22,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 44352
+  },
+  {
+    "map_id": 22,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 79176
+  },
+  {
+    "map_id": 35,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 48400
+  },
+  {
+    "map_id": 35,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 49512
+  },
+  {
+    "map_id": 35,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 49128
+  },
+  {
+    "map_id": 35,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 99328
+  },
+  {
+    "map_id": 35,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 51272
+  },
+  {
+    "map_id": 35,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 61624
+  },
+  {
+    "map_id": 35,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 12432
+  },
+  {
+    "map_id": 35,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 12552
+  },
+  {
+    "map_id": 35,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 12376
+  },
+  {
+    "map_id": 35,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 19168
+  },
+  {
+    "map_id": 35,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 28472
+  },
+  {
+    "map_id": 35,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 41776
+  },
+  {
+    "map_id": 36,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 48400
+  },
+  {
+    "map_id": 36,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 43200
+  },
+  {
+    "map_id": 36,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 48128
+  },
+  {
+    "map_id": 36,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 70536
+  },
+  {
+    "map_id": 36,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 48256
+  },
+  {
+    "map_id": 36,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 102104
+  },
+  {
+    "map_id": 36,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 7832
+  },
+  {
+    "map_id": 36,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 7776
+  },
+  {
+    "map_id": 36,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 7656
+  },
+  {
+    "map_id": 36,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 15072
+  },
+  {
+    "map_id": 36,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 11168
+  },
+  {
+    "map_id": 36,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 49200
+  },
+  {
+    "map_id": 38,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 43080
+  },
+  {
+    "map_id": 38,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 42096
+  },
+  {
+    "map_id": 38,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 42184
+  },
+  {
+    "map_id": 38,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 90344
+  },
+  {
+    "map_id": 38,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 40336
+  },
+  {
+    "map_id": 38,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 96600
+  },
+  {
+    "map_id": 38,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 27472
+  },
+  {
+    "map_id": 38,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 27208
+  },
+  {
+    "map_id": 38,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 27320
+  },
+  {
+    "map_id": 38,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 24864
+  },
+  {
+    "map_id": 38,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 75432
+  },
+  {
+    "map_id": 38,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 27744
+  },
+  {
+    "map_id": 39,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 148112
+  },
+  {
+    "map_id": 39,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 149280
+  },
+  {
+    "map_id": 39,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 154800
+  },
+  {
+    "map_id": 39,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 147360
+  },
+  {
+    "map_id": 39,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 147816
+  },
+  {
+    "map_id": 39,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 151696
+  },
+  {
+    "map_id": 39,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 23232
+  },
+  {
+    "map_id": 39,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 20320
+  },
+  {
+    "map_id": 39,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 23256
+  },
+  {
+    "map_id": 39,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 40360
+  },
+  {
+    "map_id": 39,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 51400
+  },
+  {
+    "map_id": 39,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 55344
+  },
+  {
+    "map_id": 42,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 12424
+  },
+  {
+    "map_id": 42,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 12208
+  },
+  {
+    "map_id": 42,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 12088
+  },
+  {
+    "map_id": 42,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 30272
+  },
+  {
+    "map_id": 42,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 94264
+  },
+  {
+    "map_id": 42,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 52248
+  },
+  {
+    "map_id": 42,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 25368
+  },
+  {
+    "map_id": 42,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 24864
+  },
+  {
+    "map_id": 42,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 25008
+  },
+  {
+    "map_id": 42,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 103376
+  },
+  {
+    "map_id": 42,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 54264
+  },
+  {
+    "map_id": 42,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 50696
+  },
+  {
+    "map_id": 51,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 26840
+  },
+  {
+    "map_id": 51,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 26744
+  },
+  {
+    "map_id": 51,
+    "sample_id": 0,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 26808
+  },
+  {
+    "map_id": 51,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 76320
+  },
+  {
+    "map_id": 51,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 102168
+  },
+  {
+    "map_id": 51,
+    "sample_id": 0,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 42216
+  },
+  {
+    "map_id": 51,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "adaptive",
+    "peak_python_bytes": 16264
+  },
+  {
+    "map_id": 51,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 14112
+  },
+  {
+    "map_id": 51,
+    "sample_id": 1,
+    "scenario": "clean",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 16112
+  },
+  {
+    "map_id": 51,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "adaptive",
+    "peak_python_bytes": 13488
+  },
+  {
+    "map_id": 51,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_1_controlled",
+    "peak_python_bytes": 13464
+  },
+  {
+    "map_id": 51,
+    "sample_id": 1,
+    "scenario": "corrupt100",
+    "method": "fixed_2_controlled",
+    "peak_python_bytes": 43016
+  }
+]

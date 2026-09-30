@@ -1,0 +1,2 @@
+# CSV results retain the standard CRLF record endings.
+*.csv whitespace=cr-at-eol
